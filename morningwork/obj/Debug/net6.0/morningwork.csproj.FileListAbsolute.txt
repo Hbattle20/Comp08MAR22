@@ -1,0 +1,15 @@
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.csproj.AssemblyReference.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.AssemblyInfoInputs.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.AssemblyInfo.cs
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.csproj.CoreCompileInputs.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\bin\Debug\net6.0\morningwork.exe
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\bin\Debug\net6.0\morningwork.deps.json
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\bin\Debug\net6.0\morningwork.runtimeconfig.json
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\bin\Debug\net6.0\morningwork.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\bin\Debug\net6.0\morningwork.pdb
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\refint\morningwork.dll
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.pdb
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\morningwork.genruntimeconfig.cache
+C:\Users\v-johnbattle\OneDrive - Microsoft\Desktop\work03022022\morningwork\morningwork\obj\Debug\net6.0\ref\morningwork.dll
