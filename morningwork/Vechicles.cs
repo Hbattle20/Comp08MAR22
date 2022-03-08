@@ -28,13 +28,29 @@ namespace morningwork
 
     }
 
-    public class Car : Vechicle
+    public class Car
     {
 
-        public string color;
-        public Car(int wheels, string color) : base(wheels)
+        private Tires _tires;
+        private Engine _engine;
+
+        public Tires Tires
         {
-            this.color = color;
+            get { return _tires; }
+            set { _tires = value; }
+        }
+        public Engine Engine
+        {
+            get { return _engine; }
+            set { _engine = value; }
+        }
+
+        
+
+        public Car(Tires tires, Engine engine)
+        {
+            _tires = tires;
+            _engine = engine;
         }
 
 
